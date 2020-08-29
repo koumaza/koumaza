@@ -10,8 +10,10 @@
 [![GPG:Keybase/koumaza](https://img.shields.io/badge/GPG--Keybase-koumaza/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/koumaza/pgp_keys.asc)
 
 <h1>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koumaza&theme=radical" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="300rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="300rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical" /></a>
+
 </h1>
 
 <br>
