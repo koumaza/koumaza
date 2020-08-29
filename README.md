@@ -11,7 +11,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="300rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical" /></a>
 
 
----
+<h1></h1>
 
 <br>
 <details><summary>⚠️Warning!⚠️<h1>💣koumaza bomb💣</h1></summary>
