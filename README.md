@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 </h1>
 
+---
+---
 <details><summary>⚠️Warning!⚠️<h1>💣koumaza bomb💣</h1></summary>
 
 Are you sure?
