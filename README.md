@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+__/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)<br>
+__/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)<br>
 <!--
 **koumaza/koumaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
