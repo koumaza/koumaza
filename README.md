@@ -34,6 +34,14 @@ Here are some ideas to get you started:
 
 </h1>
 
+#### I live in Saitama City
+<a href="https://www.google.com/maps/place/Saitama"><img align="center" height="500rem" src="https://user-images.githubusercontent.com/44153315/98898344-c2918600-24f0-11eb-93d9-ed8029ae184e.png" /></a>
+
+##### Click image to open GoogleMap
+
+
+<br>
+
 ---
 ---
 <details><summary>⚠️Warning!⚠️<h1>💣koumaza bomb💣</h1></summary>
