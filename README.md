@@ -1,8 +1,13 @@
 ### Hi there 👋  [![Hits](https://hits.dwyl.com/koumaza/koumaza.svg)](https://hits.dwyl.com/koumaza/koumaza)
 _`A day is for one challenge.`_
+<table align="left" border="0">
+<tr><td colspan=0 align="center">
+
 #### [![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)
 __/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)<br>
 __/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)<br>
+
+</table></tr></td>
 <!--
 **koumaza/koumaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +22,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ---
+
+### Links
+
+<table align="center" border="0">
+<tr><td colspan=0 align="center">
+
 [![Keybase:koumaza](https://img.shields.io/badge/Keybase-koumaza-brightgreen?style=flat-square&logo=keybase)](https://keybase.io/koumaza)
 [![Keybase Chat:koumaza](https://img.shields.io/badge/Keybase%20Chat-koumaza-blue?style=flat-square&logo=keybase)](https://keybase.io/koumaza/chat)
 [![GitHub:koumaza](https://img.shields.io/badge/GitHub-koumaza-f06?style=flat-square&logo=GitHub)](https://github.com/koumaza)
@@ -45,7 +57,7 @@ Here are some ideas to get you started:
 
 <br>
 
----
+
 ---
 <details><summary>⚠️Warning!⚠️<h1>💣koumaza bomb💣</h1></summary>
 
@@ -55,3 +67,5 @@ Are you sure?
 | --- |----|
 
 </details>
+
+</table></tr></td>
