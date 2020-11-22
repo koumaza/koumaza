@@ -1,7 +1,7 @@
 ### Hi there 👋  [![Hits](https://hits.dwyl.com/koumaza/koumaza.svg)](https://hits.dwyl.com/koumaza/koumaza)
 _`A day is for one challenge.`_
 
-<table align="center" border="0">
+<table align="left" border="0">
 <tr><td colspan=0 align="center">
 
 #### [![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)
