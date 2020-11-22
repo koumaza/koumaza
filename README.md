@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <table align="center" border="0">
 <tr><td colspan=0 align="center">
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 </td></tr></table>
 
 
@@ -50,14 +50,11 @@ Here are some ideas to get you started:
 [![GPG:GitHub/koumaza](https://img.shields.io/badge/GPG--GitHub-koumaza/gpg_keys-red?style=flat-square&logo=GitHub)](https://api.github.com/users/koumaza/gpg_keys)
 [![GPG:Keybase/koumaza](https://img.shields.io/badge/GPG--Keybase-koumaza/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/koumaza/pgp_keys.asc)
 
-</table></tr></td>
+</td></tr></table>
 
 ---
 
 ### My stats
-
-<table align="center" border="0">
-<tr><td colspan=0 align="center">
 
 <h1>
 
@@ -65,8 +62,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical" /></a>
 
 </h1>
-
-</table></tr></td>
 
 #### I live in Saitama City
 <a href="https://www.google.com/maps/place/Saitama"><img align="center" height="500rem" src="https://user-images.githubusercontent.com/44153315/98898344-c2918600-24f0-11eb-93d9-ed8029ae184e.png" /></a>
