@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 </td></tr></table>
 </div>
 
-<table align="center" border="0">
-<tr><td colspan=0 align="center">
 <br><br><br><br><br><br><br><br>
-</td></tr></table>
 
 
 ---
