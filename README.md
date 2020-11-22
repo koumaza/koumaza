@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </td></tr></table>
 </div>
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ---
 
