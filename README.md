@@ -1,13 +1,13 @@
 ### Hi there 👋  [![Hits](https://hits.dwyl.com/koumaza/koumaza.svg)](https://hits.dwyl.com/koumaza/koumaza)
 _`A day is for one challenge.`_
+
 <table align="center" border="0">
-<tr><td colspan=0 align="left">
+<tr><td colspan=0 align="center">
 
 #### [![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)
 __/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)<br>
 __/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)<br>
 
-</table></tr></td>
 <!--
 **koumaza/koumaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</table></tr></td>
 
 ---
 
@@ -40,7 +42,14 @@ Here are some ideas to get you started:
 [![GPG:GitHub/koumaza](https://img.shields.io/badge/GPG--GitHub-koumaza/gpg_keys-red?style=flat-square&logo=GitHub)](https://api.github.com/users/koumaza/gpg_keys)
 [![GPG:Keybase/koumaza](https://img.shields.io/badge/GPG--Keybase-koumaza/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/koumaza/pgp_keys.asc)
 
+</table></tr></td>
+
 ---
+
+### My stats
+
+<table align="center" border="0">
+<tr><td colspan=0 align="center">
 
 <h1>
 
@@ -48,6 +57,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical" /></a>
 
 </h1>
+
+</table></tr></td>
 
 #### I live in Saitama City
 <a href="https://www.google.com/maps/place/Saitama"><img align="center" height="500rem" src="https://user-images.githubusercontent.com/44153315/98898344-c2918600-24f0-11eb-93d9-ed8029ae184e.png" /></a>
@@ -59,13 +70,12 @@ Here are some ideas to get you started:
 
 
 ---
-<details><summary>⚠️Warning!⚠️<h1>💣koumaza bomb💣</h1></summary>
+<details><summary>⚠️Warning!⚠️<br><br><ins><table align="center" border="85"><tr><td colspan=0 align="center"><h1>💣<ins>koumaza</ins> <ins>bomb</ins>💣</h1></td></tr></table></ins></summary>
 
+<table align="center" border="-200"><tr><td colspan=0 align="center">
 Are you sure?
 
 | [_Yes_](https://github.com/koumaza/koumaza/blob/master/Bom.md) | __No__ |
 | --- |----|
-
-</details>
-
 </table></tr></td>
+</details>
