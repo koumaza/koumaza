@@ -1,6 +1,7 @@
 ### Hi there 👋  [![Hits](https://hits.dwyl.com/koumaza/koumaza.svg)](https://hits.dwyl.com/koumaza/koumaza)
 _`A day is for one challenge.`_
 
+<div>
 <table align="left" border="0">
 <tr><td colspan=0 align="center">
 
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 -->
 
 </td></tr></table>
+</div>
 
 ---
 
