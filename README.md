@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Links
 
 <table align="center" border="0">
-<tr><td colspan=0 align="center">
+<tr><td colspan=0 align="center"><br>
 
 [![Keybase:koumaza](https://img.shields.io/badge/Keybase-koumaza-brightgreen?style=flat-square&logo=keybase)](https://keybase.io/koumaza)
 [![Keybase Chat:koumaza](https://img.shields.io/badge/Keybase%20Chat-koumaza-blue?style=flat-square&logo=keybase)](https://keybase.io/koumaza/chat)
