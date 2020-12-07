@@ -79,4 +79,8 @@ Are you sure?
 | [_Yes_](https://github.com/koumaza/koumaza/blob/master/Bom.md) | __No__ |
 | --- |----|
 </table></tr></td>
+
+<ins><table align="center" border="0"><tr><td colspan=0 align="center"><h1>💣💣💣<ins>Unlimited</ins> <ins>bomb</ins>💣💣💣</h1></td></tr></ins>
+<tr><td colspan=0 align="center"><a href="https://google.com">Enter</a></td></tr>
+</table>
 </details>
