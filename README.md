@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Links
+### Links (Reach me)
 
 <table align="center" border="0">
 <tr><td colspan=0 align="center"><br>
@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 [![GPG:Keybase/koumaza](https://img.shields.io/badge/GPG--Keybase-koumaza/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/koumaza/pgp_keys.asc)
 
 </td></tr></table>
+
+---
+
+### What can I
+<img alt="HTML5" height=40rem width=40rem src="https://api.iconify.design/logos:html-5.svg?download=false&box=true&inline=false&height=auto"> <img alt="CSS3" height=40rem width=40rem src="https://api.iconify.design/logos:css-3.svg?download=false&box=true&inline=false&height=auto"> <img alt="Javascript" height=40rem width=40rem src="https://api.iconify.design/grommet-icons:js.svg?download=false&box=true&inline=false&height=auto"> <img alt="Svelte" height=40rem width=40rem src="https://api.iconify.design/logos:svelte-icon.svg?download=false&box=true&inline=false&height=auto">
 
 ---
 
