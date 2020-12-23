@@ -1,28 +1,13 @@
-### Hi there 👋  [![Hits](https://hits.dwyl.com/koumaza/koumaza.svg)](https://hits.dwyl.com/koumaza/koumaza)
+### Hi there 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoumaza&count_bg=%230050FF&title_bg=%23555555&icon=googlemaps.svg&icon_color=%23FFFFFF&title=Hits+%2F+koumaza&edge_flat=true)](https://hits.seeyoufarm.com)
 _`A day is for one challenge.`_
 
 <div>
 <table align="left" border="0">
-<tr><td colspan=0 align="center">
+<td colspan=0 align="center"><tr>
 
 #### [![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)
 __/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)<br>
 __/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)<br>
-
-<!--
-**koumaza/koumaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 </td></tr></table>
 </div>
