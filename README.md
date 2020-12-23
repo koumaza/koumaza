@@ -3,10 +3,11 @@
 
 [![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)
 
-__/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)<br>
+__/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)
+
 __/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)
 
-</td></table><br><br>
+</td></table><br>
 
 ### Hi there 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoumaza&count_bg=%230050FF&title_bg=%23555555&icon=googlemaps.svg&icon_color=%23FFFFFF&title=Hits+%2F+koumaza&edge_flat=true)](https://hits.seeyoufarm.com)
 _`A day is for one challenge.`_
@@ -33,6 +34,7 @@ _`A day is for one challenge.`_
 ---
 
 ### What can I
+
 <img alt="HTML5" height=40rem width=40rem src="https://api.iconify.design/logos:html-5.svg?download=false&box=true&inline=false&height=auto"> <img alt="CSS3" height=40rem width=40rem src="https://api.iconify.design/logos:css-3.svg?download=false&box=true&inline=false&height=auto"> <img alt="Javascript" height=40rem width=40rem src="https://api.iconify.design/grommet-icons:js.svg?download=false&box=true&inline=false&height=auto"> <img alt="Svelte" height=40rem width=40rem src="https://api.iconify.design/logos:svelte-icon.svg?download=false&box=true&inline=false&height=auto">
 
 ---
