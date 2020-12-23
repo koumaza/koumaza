@@ -1,6 +1,6 @@
 <div>
 <table align="right" border="0">
-<td colspan=0 align="right">
+<td colspan=0 align="center
 
 #### [![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)
 __/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)<br>
