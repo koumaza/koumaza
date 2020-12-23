@@ -1,5 +1,5 @@
 <table align="right" border="0">
-<td colspan=0 align="center">
+<td colspan=0 align="center"><br>
 
 [![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)
 
