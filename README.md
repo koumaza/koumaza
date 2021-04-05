@@ -58,7 +58,7 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 ---
 
 ### I live in Saitama City
-<a href="https://www.google.com/maps/place/Saitama"><img align="center" height="500rem" src="https://user-images.githubusercontent.com/44153315/98898344-c2918600-24f0-11eb-93d9-ed8029ae184e.png"/></a>
+<a href="https://www.google.com/maps/place/Saitama"><img align="center" height="400rem" src="https://user-images.githubusercontent.com/44153315/98898344-c2918600-24f0-11eb-93d9-ed8029ae184e.png"/></a>
 
 ##### Click image to open GoogleMap
 
@@ -67,7 +67,7 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 
 
 ---
-<details><summary>⚠️Warning!⚠️<br><br><ins><table align="center" border="85"><tr><td colspan=0 align="center"><h1>💣<ins>koumaza</ins> <ins>bomb</ins>💣</h1></td></tr></table></ins></summary>
+<details><summary>⚠️Warning!⚠️<br><br><ins><table align="center" border="25"><tr><td colspan=0 align="center"><h1>💣<ins>koumaza</ins> <ins>bomb</ins>💣</h1></td></tr></table></ins></summary>
 
 <table align="center" border="-200"><tr><td colspan=0 align="center">
 Are you sure?
