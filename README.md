@@ -34,6 +34,8 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 [![GPG:GitHub/koumaza](https://img.shields.io/badge/GPG--GitHub-koumaza/gpg_keys-red?style=flat-square&logo=GitHub)](https://api.github.com/users/koumaza/gpg_keys)
 [![GPG:Keybase/koumaza](https://img.shields.io/badge/GPG--Keybase-koumaza/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/koumaza/pgp_keys.asc)
 [![Discord:koumaza#9623](https://img.shields.io/badge/Discord-koumaza%239623-purple?style=flat-square&logo=discord)](https://canary.discord.com/channels/@me/418430050291941406)
+[![Twitter:KOOUMAZA](https://img.shields.io/badge/Twitter-KOOUMAZA-lightblue?style=flat-square&logo=twitter)](https://twitter.com/KOOUMAZA)
+[![Reddit:k0umaza](https://img.shields.io/badge/Reddit-k0umaza-117886?style=flat-square&logo=reddit)](https://www.reddit.com/u/k0umaza)
 </table>
 
 ---
