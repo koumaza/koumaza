@@ -5,9 +5,9 @@ __/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onf
 __/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)<br/>
 </table>
 
-### Hi there 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoumaza&count_bg=%230050FF&title_bg=%23555555&icon=googlemaps.svg&icon_color=%23FFFFFF&title=Hits+%2F+koumaza&edge_flat=true)](https://hits.seeyoufarm.com)
+## Hi there 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoumaza&count_bg=%230050FF&title_bg=%23555555&icon=googlemaps.svg&icon_color=%23FFFFFF&title=Hits+%2F+koumaza&edge_flat=true)](https://hits.seeyoufarm.com)
 
-#### ~~ Self-introduction ~~
+### ~~ Self-introduction ~~
 I am a student in Japan🇯🇵.
 And like cute things!❤🤣🤩<br/>
 I can speak Japanese natively and English a little by little^^;
@@ -57,7 +57,7 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 
 ---
 
-#### I live in Saitama City
+### I live in Saitama City
 <a href="https://www.google.com/maps/place/Saitama"><img align="center" height="500rem" src="https://user-images.githubusercontent.com/44153315/98898344-c2918600-24f0-11eb-93d9-ed8029ae184e.png"/></a>
 
 ##### Click image to open GoogleMap
