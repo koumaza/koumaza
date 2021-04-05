@@ -7,7 +7,6 @@ __/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 </td></table>
 
 ### Hi there 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoumaza&count_bg=%230050FF&title_bg=%23555555&icon=googlemaps.svg&icon_color=%23FFFFFF&title=Hits+%2F+koumaza&edge_flat=true)](https://hits.seeyoufarm.com)
-_`A day is for one challenge.`_
 
 ##### Self-introduction
 I am student in Japan🇯🇵.
