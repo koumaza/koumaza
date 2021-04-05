@@ -38,6 +38,15 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 
 ---
 
+### My stats
+
+<h1>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koumaza&theme=radical"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical"/></a>
+</h1>
+
+---
+
 ### What can I
 <img alt="HTML5" height=40rem width=40rem src="https://api.iconify.design/logos:html-5.svg?download=false&box=true&inline=false&height=auto"/> <img alt="CSS3" height=40rem width=40rem src="https://api.iconify.design/logos:css-3.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Javascript" height=40rem width=40rem src="https://api.iconify.design/grommet-icons:js.svg?download=false&box=true&inline=false&height=auto"/> <img alt="TypeScript" height=40rem width=40rem src="https://api.iconify.design/logos:typescript-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Svelte" height=40rem width=40rem src="https://api.iconify.design/logos:svelte-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Pwsh" height=40rem width=40rem src="https://api.iconify.design/vscode-icons:file-type-powershell.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Bash" height=40rem width=40rem src="https://api.iconify.design/logos:bash-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Fish" height=40rem width=40rem src="https://avatars.githubusercontent.com/u/1828073"/> <img alt="C#" height=40rem width=40rem src="https://api.iconify.design/logos:c-sharp.svg?download=false&box=true&inline=false&height=auto"/>
 
@@ -46,25 +55,11 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 
 ---
 
-### My stats
-
-<h1>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koumaza&theme=radical"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical"/></a>
-
-</h1>
-
----
-
 ### I live in Saitama City
 <a href="https://www.google.com/maps/place/Saitama"><img align="center" height="400rem" src="https://user-images.githubusercontent.com/44153315/98898344-c2918600-24f0-11eb-93d9-ed8029ae184e.png"/></a>
 
 ##### Click image to open GoogleMap
-
-
 <br/>
-
 
 ---
 <details><summary>⚠️Warning!⚠️<br><br><ins><table align="center" border="25"><tr><td colspan=0 align="center"><h1>💣<ins>koumaza</ins> <ins>bomb</ins>💣</h1></td></tr></table></ins></summary>
