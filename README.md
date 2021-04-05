@@ -24,20 +24,26 @@ I like cute things!❤🤣🤩
 [![Keybase:koumaza](https://img.shields.io/badge/Keybase-koumaza-brightgreen?style=flat-square&logo=keybase)](https://keybase.io/koumaza)
 [![Keybase Chat:koumaza](https://img.shields.io/badge/Keybase%20Chat-koumaza-blue?style=flat-square&logo=keybase)](https://keybase.io/koumaza/chat)
 [![GitHub:koumaza](https://img.shields.io/badge/GitHub-koumaza-f06?style=flat-square&logo=GitHub)](https://github.com/koumaza)
+[![GitLab:koumaza](https://img.shields.io/badge/GitLab-koumaza-fa6?style=flat-square&logo=GitLab)](https://gitlab.com/koumaza)
 [![Gist.GitHub:koumaza](https://img.shields.io/badge/Gist%20GitHub-koumaza-f64?style=flat-square&logo=GitHub)](https://gist.github.com/koumaza)
+[![Snippet.GitLab:koumaza](https://img.shields.io/badge/GitLab%20Snippets-koumaza-fa3?style=flat-square&logo=GitLab)](https://gitlab.com/users/koumaza/snippets)
 [![GitHub Pages:koumaza](https://img.shields.io/badge/GitHub%20Pages-koumaza-f7b?style=flat-square&logo=GitHub)](https://koumaza.github.io)
+[![GitLab Pages:koumaza](https://img.shields.io/badge/GitLab%20Pages-koumaza-7fb?style=flat-square&logo=GitLab)](https://koumaza.gitlab.io)
 [![Primary EMail Addresss:koumaza--@outlook.com](https://img.shields.io/badge/Primary-koumaza----@outlook.com-green?style=flat-square&logo=microsoft%20outlook)](mailto://koumaza--@outlook.com)
 [![SSH:GitHub/koumaza](https://img.shields.io/badge/SSH--GitHub-koumaza.keys-red?style=flat-square&logo=GitHub)](https://github.com/koumaza.keys)
 [![GPG:GitHub/koumaza](https://img.shields.io/badge/GPG--GitHub-koumaza/gpg_keys-red?style=flat-square&logo=GitHub)](https://api.github.com/users/koumaza/gpg_keys)
 [![GPG:Keybase/koumaza](https://img.shields.io/badge/GPG--Keybase-koumaza/pgp_keys.asc-red?style=flat-square&logo=keybase)](https://keybase.io/koumaza/pgp_keys.asc)
+[![Discord:koumaza#9623](https://img.shields.io/badge/Discord-koumaza%239623-purple?style=flat-square&logo=discord)](https://canary.discord.com/channels/@me/418430050291941406)
 
 </td></tr></table>
 
 ---
 
 ### What can I
+<img alt="HTML5" height=40rem width=40rem src="https://api.iconify.design/logos:html-5.svg?download=false&box=true&inline=false&height=auto"/> <img alt="CSS3" height=40rem width=40rem src="https://api.iconify.design/logos:css-3.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Javascript" height=40rem width=40rem src="https://api.iconify.design/grommet-icons:js.svg?download=false&box=true&inline=false&height=auto"/> <img alt="TypeScript" height=40rem width=40rem src="https://api.iconify.design/logos:typescript-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Svelte" height=40rem width=40rem src="https://api.iconify.design/logos:svelte-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Pwsh" height=40rem width=40rem src="https://api.iconify.design/vscode-icons:file-type-powershell.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Bash" height=40rem width=40rem src="https://api.iconify.design/logos:bash-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Fish" height=40rem width=40rem src="https://avatars.githubusercontent.com/u/1828073"/> <img alt="C#" height=40rem width=40rem src="https://api.iconify.design/logos:c-sharp.svg?download=false&box=true&inline=false&height=auto"/>
 
-<img alt="HTML5" height=40rem width=40rem src="https://api.iconify.design/logos:html-5.svg?download=false&box=true&inline=false&height=auto"> <img alt="CSS3" height=40rem width=40rem src="https://api.iconify.design/logos:css-3.svg?download=false&box=true&inline=false&height=auto"> <img alt="Javascript" height=40rem width=40rem src="https://api.iconify.design/grommet-icons:js.svg?download=false&box=true&inline=false&height=auto"> <img alt="Svelte" height=40rem width=40rem src="https://api.iconify.design/logos:svelte-icon.svg?download=false&box=true&inline=false&height=auto">
+#### Learning
+<img alt="C" height=40rem width=40rem src="https://api.iconify.design/logos:c.svg?download=false&box=true&inline=false&height=auto"/> <img alt="C++" height=40rem width=40rem src="https://api.iconify.design/logos:c-plusplus.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Kotlin" height=40rem width=40rem src="https://api.iconify.design/logos:kotlin.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Julia" height=40rem width=40rem src="https://api.iconify.design/vscode-icons:file-type-julia.svg?download=false&box=true&inline=false&height=auto"/>
 
 ---
 
