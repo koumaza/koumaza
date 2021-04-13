@@ -25,6 +25,7 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 [![Keybase Chat:koumaza](https://img.shields.io/badge/Keybase%20Chat-koumaza-blue?style=flat-square&logo=keybase)](https://keybase.io/koumaza/chat)
 [![GitHub:koumaza](https://img.shields.io/badge/GitHub-koumaza-f06?style=flat-square&logo=GitHub)](https://github.com/koumaza)
 [![GitLab:koumaza](https://img.shields.io/badge/GitLab-koumaza-fa6?style=flat-square&logo=GitLab)](https://gitlab.com/koumaza)
+[![Gitee:koumaza](https://img.shields.io/badge/Gitee-koumaza-yellowgreen?style=flat-square&logo=gitee)](https://gitee.com/koumaza)
 [![Gist.GitHub:koumaza](https://img.shields.io/badge/Gist%20GitHub-koumaza-f64?style=flat-square&logo=GitHub)](https://gist.github.com/koumaza)
 [![Snippet.GitLab:koumaza](https://img.shields.io/badge/GitLab%20Snippets-koumaza-fa3?style=flat-square&logo=GitLab)](https://gitlab.com/users/koumaza/snippets)
 [![GitHub Pages:koumaza](https://img.shields.io/badge/GitHub%20Pages-koumaza-f7b?style=flat-square&logo=GitHub)](https://koumaza.github.io)
