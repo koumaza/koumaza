@@ -46,7 +46,7 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 
 <h1>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koumaza&theme=radical"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=anuraghazra&show_icons=true&theme=radical"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=koumaza&count_private=true?username=koumaza&show_icons=true&theme=radical"/></a>
 </h1>
 
 ---
