@@ -2,7 +2,7 @@
 
 <br/>[![Visitors-Number](https://visitor-badge.glitch.me/badge?page_id=koumaza.visitor-badge)](https://visitor-badge.glitch.me)<br/><br/>
 __/Asia/Tokyo__: &nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Tokyo?color=black)<br/>
-__/UCT__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)<br/>
+__/UTC__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tokyo-date](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/UTC?color=black)<br/>
 </table>
 
 ## Hi there 👋
