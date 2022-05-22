@@ -9,7 +9,6 @@ __/UTC__: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ## Hi there 👋
 
-
 ### ~~ Self-introduction ~~
 I am a student in Japan🇯🇵.
 And like cute things!❤🤣🤩<br/>
@@ -55,10 +54,25 @@ I hope to get along with you! (I use translation, therefore even I'd not like to
 ---
 
 ### What can I
-<img alt="HTML5" height=40rem width=40rem src="https://api.iconify.design/logos:html-5.svg?download=false&box=true&inline=false&height=auto"/> <img alt="CSS3" height=40rem width=40rem src="https://api.iconify.design/logos:css-3.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Javascript" height=40rem width=40rem src="https://api.iconify.design/grommet-icons:js.svg?download=false&box=true&inline=false&height=auto"/> <img alt="TypeScript" height=40rem width=40rem src="https://api.iconify.design/logos:typescript-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Svelte" height=40rem width=40rem src="https://api.iconify.design/logos:svelte-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Pwsh" height=40rem width=40rem src="https://api.iconify.design/vscode-icons:file-type-powershell.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Bash" height=40rem width=40rem src="https://api.iconify.design/logos:bash-icon.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Fish" height=40rem width=40rem src="https://avatars.githubusercontent.com/u/1828073"/> <img alt="C#" height=40rem width=40rem src="https://api.iconify.design/logos:c-sharp.svg?download=false&box=true&inline=false&height=auto"/>
+<p align="left">
+  <img alt="HTML5" height=40rem width=40rem src="https://api.iconify.design/logos:html-5.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="CSS3" height=40rem width=40rem src="https://api.iconify.design/logos:css-3.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="Javascript" height=40rem width=40rem src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" height=40rem width=40rem src="https://api.iconify.design/logos:typescript-icon.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="Svelte" height=40rem width=40rem src="https://api.iconify.design/logos:svelte-icon.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="Pwsh" height=40rem width=40rem src="https://api.iconify.design/vscode-icons:file-type-powershell.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="Bash" height=40rem width=40rem src="https://api.iconify.design/logos:bash-icon.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="Fish" height=40rem width=40rem src="https://avatars.githubusercontent.com/u/1828073"/>
+  <img alt="C#" height=40rem width=40rem src="https://api.iconify.design/logos:c-sharp.svg?download=false&box=true&inline=false&height=auto"/>
+</p>
 
 #### Learning
-<img alt="C" height=40rem width=40rem src="https://api.iconify.design/logos:c.svg?download=false&box=true&inline=false&height=auto"/> <img alt="C++" height=40rem width=40rem src="https://api.iconify.design/logos:c-plusplus.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Kotlin" height=40rem width=40rem src="https://api.iconify.design/logos:kotlin.svg?download=false&box=true&inline=false&height=auto"/> <img alt="Julia" height=40rem width=40rem src="https://api.iconify.design/vscode-icons:file-type-julia.svg?download=false&box=true&inline=false&height=auto"/>
+<p align="left">
+  <img alt="C" height=40rem width=40rem src="https://api.iconify.design/logos:c.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="C++" height=40rem width=40rem src="https://api.iconify.design/logos:c-plusplus.svg?download=false&box=true&inline=false&height=auto"/>
+  <img alt="Kotlin" height=40rem width=40rem src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
+  <img alt="Julia" height=40rem width=40rem src="https://api.iconify.design/vscode-icons:file-type-julia.svg?download=false&box=true&inline=false&height=auto"/>
+</p>
 
 ---
 
